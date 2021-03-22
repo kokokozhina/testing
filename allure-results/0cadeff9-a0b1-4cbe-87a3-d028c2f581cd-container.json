@@ -1,1 +1,0 @@
-{"uuid":"0cadeff9-a0b1-4cbe-87a3-d028c2f581cd","name":"com.kokokozhina.Tests.tearDown","description":"","start":1616015869666,"stop":1616015869667,"children":["ae6beca3-dd99-4419-bb43-368993a85216"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1616015869666,"stop":1616015869667}]}
